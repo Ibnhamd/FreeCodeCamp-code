@@ -1,5 +1,4 @@
 # FreeCodeCamp-code
----
 Repository kode latihan dan peroject selama pelatihan di freecodecamp 
 
 1. `git add .` untuk menambahkan semua perubahan
